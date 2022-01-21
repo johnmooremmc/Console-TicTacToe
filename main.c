@@ -12,6 +12,7 @@ int Conditional_valueONE, Conditional_valueTWO, Condition_Draw;
 
 void Render()
 {
+    system("cls");
     for (i=0; i<dimension; i++)
     {
         for (j=0; j<dimension; j++)
